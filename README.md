@@ -8,9 +8,9 @@ Currently working as PMO Analyst at [Transformapp](https://www.linkedin.com/comp
 
 ## Currently
 
-- Deepening pandas/NumPy for data processing and report generation
+- Deepening Pandas/NumPy for data processing and report generation
 - Preparing **AWS Cloud Practitioner** (target May 2026) and **Azure Fundamentals**
-- Exploring automation with **n8n** and LLMs (Claude, Gemma 4)
+- Consolidating automation with **n8n** and LLMs (Claude, Gemma 4)
 
 ## Featured project
 
@@ -18,8 +18,8 @@ Currently working as PMO Analyst at [Transformapp](https://www.linkedin.com/comp
 
 ## Stack
 
-**Languages** — Python · JavaScript · SQL · Bash
-**Data & Excel** — pandas · NumPy · openpyxl · xlsxwriter
+**Languages** — Python · JavaScript · Java · SQL · Bash
+**Data & Excel** — Pandas · NumPy · openpyxl · xlsxwriter
 **Automation & integrations** — Google Apps Script · n8n · REST APIs (Claude, Gemini, Jira, Confluence)
 **Environment** — Git & GitHub · Linux (Debian/Ubuntu) · VSCode · Claude Code
 
