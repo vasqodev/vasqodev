@@ -1,5 +1,5 @@
 # Rodrigo Vásquez Alarcón
-**Programming Analyst · Santiago, Chile**
+**Programmer Analyst · Santiago, Chile**
 
 I build scripts, pipelines and integrations that remove manual work from operational processes — focused on Python, APIs and LLM-based workflows. I'm also expanding into Java backend development through formal training at Duoc UC.
 
